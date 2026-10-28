@@ -1,17 +1,17 @@
 # Hyperparameter Tuning Experiments
 
-This directory organizes the hyperparameter optimization experiments conducted for the reinforcement learning algorithms used in 3D quadcopter navigation.
-
-## Experiments
+This project compares five reinforcement learning algorithms for 3D quadcopter navigation:
 
 - Q-Learning
-- Double Q-Learning
 - SARSA
+- Double Q-Learning
 - Monte Carlo
 - Deep Q-Network (DQN)
 
-The MATLAB scripts, saved models, and experiment outputs will be added after reviewing the original files and removing temporary or redundant artifacts.
+The MATLAB scripts currently available for these experiments are organized under the [`algorithms/`](../algorithms/) directory.
 
-## Evaluation
+Hyperparameter selection and model performance are described in the accompanying project report. The reported evaluation includes average reward and navigation success rate.
 
-The experiments compare learning performance using metrics such as average reward, success rate, and competitive navigation outcomes, as documented in the project report.
+This directory documents the tuning experiments without maintaining duplicate copies of the MATLAB scripts.
+
+**Scope:** This repository currently focuses on the main (navigator) drone. The attacker-drone and competitive multi-agent components will be added separately when available and approved for sharing.
