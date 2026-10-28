@@ -130,9 +130,9 @@ A video demonstration can help illustrate the simulated drone's navigation behav
 **Planned video:** Main-drone navigation and obstacle avoidance.
 
 Once the MP4 is uploaded to the repository, link it here using its actual filename. For example, if the file is uploaded as `results/main_drone_demo.mp4`, use:
+Watch the main drone navigate the 3D environment and avoid obstacles.
 
-[Watch the main-drone simulation](results/main_drone_demo.mp4)
-
+[▶ Watch the drone simulation](results/main_drone_demo.mp4)
 GitHub's rendering behavior for repository-hosted videos can vary by format and location, so a direct link is a reliable fallback.
 
 ## Repository Structure
