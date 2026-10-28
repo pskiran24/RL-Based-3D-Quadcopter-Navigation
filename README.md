@@ -62,7 +62,6 @@ These figures are reported results from the study and have not been independentl
 
 - **Kiran P. S.** — Project contributor
 - **Dinesh R.** — Collaborator; attacker-drone component maintained separately
-- **Amudha J.** — Research contributor
 
 GitHub: [Phy6toAI](https://github.com/Phy6toAI)
 
