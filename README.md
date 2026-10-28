@@ -25,7 +25,7 @@ The main drone learns to move toward a predefined target while avoiding obstacle
 
 ## Project Workflow
 
-![Reinforcement Learning Workflow](results/rl_workflow.png)
+<img width="1472" height="587" alt="rl_workflow png" src="https://github.com/user-attachments/assets/6f12b109-26c7-41cd-be1f-1219d38b0d02" />
 
 
 ## Simulation Environment
