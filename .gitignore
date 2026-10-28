@@ -1,0 +1,15 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB temporary files
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary generated videos
+# Keep the original recording locally until deciding whether to publish it.
