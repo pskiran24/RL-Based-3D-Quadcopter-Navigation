@@ -27,7 +27,6 @@ The main drone learns to move toward a predefined target while avoiding obstacle
 
 ![Reinforcement Learning Workflow](results/rl_workflow.png)
 
-*Workflow figure from the project research report.*
 
 ## Simulation Environment
 
